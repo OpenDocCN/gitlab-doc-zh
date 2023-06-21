@@ -6,7 +6,7 @@
 > 
 > 有两种软件设计的方式：一种是使它足够简单以致于明显没有缺陷，另一种则是使它足够复杂以致于没有明显的缺陷。——C.A.R. Hoare
 
-* [在线阅读](https://gitlab.apachecn.org)
+* [在线阅读](https://gitlab.flygon.net)
 ## 下载
 
 ### Docker
